@@ -157,8 +157,6 @@ global We_Recharge_Window_Phone_Number_Entry
 global We_Recharge_Window_Recharge_Amount_Entry
 global We_Recharge_Window_Recharge_Button
 global We_Recharge_Window_Exit_Button
-
-
 ########################################################################################################################
 
 # ______________________________________________________________________________________________________________________#
