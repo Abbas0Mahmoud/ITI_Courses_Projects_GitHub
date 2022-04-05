@@ -35,7 +35,7 @@
 #define WDT_260_MS                  4
 #define WDT_520_MS                  5
 #define WDT_1_s                     6
-#define WDT_2_2_S                  7
+#define WDT_2_2_S                   7
 
 /* ---------------------------------------------------------------------------------------------------------- */
 /*                           	Interface Global Declerations       		     		          	  	  	  */
@@ -52,7 +52,7 @@
 	Function Description        :
 	Function Arguments          :
     Function Arguments Datatype :
-
+	_____________________________
 	Function Parameters Options :
 	_____________________________
 
@@ -67,7 +67,7 @@ void MWDT_voidEnable(void);
 	Function Description        :
 	Function Arguments          :
     Function Arguments Datatype :
-
+	_____________________________
 	Function Parameters Options :
 	_____________________________
 
@@ -82,7 +82,7 @@ void MWDT_voidSleep(u8 Copy_u8TimeOut);
 	Function Description        :
 	Function Arguments          :
     Function Arguments Datatype :
-
+	_____________________________
 	Function Parameters Options :
 	_____________________________
 
